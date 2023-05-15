@@ -6,17 +6,22 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
+      "url": "https://www.discoveryeducation.com",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.patreon.com/kevdev",
+      "url": "https://mysteryscience.com",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      "url": "https://doodlelearning.com",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://www.pivotinteractives.com",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     }
