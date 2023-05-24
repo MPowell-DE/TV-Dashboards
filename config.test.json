@@ -7,23 +7,23 @@
   "websites": [
     {
       "url": "https://www.discoveryeducation.com",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 30,
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url": "https://mysteryscience.com",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 30,
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url": "https://doodlelearning.com",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 30,
+      "tabReloadIntervalSeconds": 3600
     },
     {
       "url": "https://www.pivotinteractives.com",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 30,
+      "tabReloadIntervalSeconds": 3600
     }
   ]
 }
